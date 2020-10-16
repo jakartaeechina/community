@@ -1,2 +1,2 @@
 # community
-关于Jakarta中国社群的讨论和资料汇集
+discussions about the Jakarta EE Community China.
